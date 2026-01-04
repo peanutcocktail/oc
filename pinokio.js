@@ -3,6 +3,7 @@ module.exports = {
   icon: "icon.png",
   description: "The AI coding agent built for the terminal.",
   link: "https://opencode.ai/",
+   path: "plugin",
   install: [{
     method: "shell.run",
     params: {
